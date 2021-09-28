@@ -1,5 +1,5 @@
 # HTML Paragraphs
-The HTML < p > element defines a paragraph.
+The HTML ```<p>``` element defines a paragraph.
 
 A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
 
