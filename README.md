@@ -5,13 +5,13 @@ HTML consists of a series of elements
 HTML elements tell the browser how to display the content
 
 # Simple Example 
-<p>1. The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-<p>2. The <html> element is the root element of an HTML page
-<p>3. The <head> element contains meta information about the HTML page
-<p>4. The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-<p>5. The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-<p>6. The < h1 > element defines a large heading
-<p>7. The < p > element defines a paragraph
+1. The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
+2. The ```<html>``` element is the root element of an HTML page
+3. The ```<head>``` element contains meta information about the HTML page
+4. The ```<title>``` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+5. The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+6. The ```<h1>``` element defines a large heading
+7. The ```<p>``` element defines a paragraph
   
   
 ```
